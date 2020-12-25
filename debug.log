@@ -1,0 +1,14 @@
+[1225/173642.958:ERROR:process_info.cc(329)] VirtualQueryEx: 存取被拒。 (0x5)
+[1225/173642.959:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[1225/173642.959:ERROR:process_memory_win.cc(39)] Failed to initialize ProcessInfo.
+[1225/173642.959:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: 嘗試存取現有的處理程序。 (0xc000010a)
+[1225/175449.114:ERROR:process_info.cc(329)] VirtualQueryEx: 存取被拒。 (0x5)
+[1225/175449.115:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[1225/175449.115:ERROR:process_memory_win.cc(39)] Failed to initialize ProcessInfo.
+[1225/175449.115:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: 嘗試存取現有的處理程序。 (0xc000010a)
+[1225/175719.064:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系統找不到指定的路徑。 (0x3)
+[1225/180420.398:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系統找不到指定的路徑。 (0x3)
+[1225/180905.769:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系統找不到指定的路徑。 (0x3)
+[1225/181058.654:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系統找不到指定的路徑。 (0x3)
+[1225/182035.326:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系統找不到指定的路徑。 (0x3)
+[1225/182739.876:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系統找不到指定的路徑。 (0x3)
