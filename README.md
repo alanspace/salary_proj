@@ -1,6 +1,8 @@
 # salary_proj
 
-This is a project to statisically analyze the data collected from glassdoor via web scraper method with the ide spyder. The aim of the repository to investigate and predict the data scientist salary. Added to it, it can also accelerate my job hunting. 
+* This is a project to statisically analyze the data collected from glassdoor via web scraper method with the ide spyder. 
+* The aim of the repository to investigate and predict the data scientist salary. So data scientist can negotiate their monthly income with the potential employers. 
+* Added to it, it can also accelerate my job hunting. 
 
 I got the code from this Githuber:
 https://github.com/arapfaik/scraping-glassdoor-selenium/blob/master/glassdoor%20scraping.ipynb
@@ -10,6 +12,10 @@ https://github.com/PlayingNumbers/ds_salary_proj
 
 Extracting URLS from glassdoor and plug this into the .py file with the keyword data scientist, anywhere in the globe.
 https://www.glassdoor.com/Job/jobs.htm?suggestCount=0&suggestChosen=false&clickSource=searchBtn&typedKeyword=google&sc.keyword=google&locT=&locId=&jobType=
+
+# Code and Packages
+Python Version: 3.7
+Packages: 'pandas', 'numpy', 'sklearn', 'matplotlib', 'seaborn', 'selenium', 'flask', 'json', 'pickle'
 
 # Note:
 During codeing, I need to compare code from time to time. This is a good tool for comparison.
