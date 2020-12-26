@@ -5,8 +5,6 @@ This is a project to statisically analyze the data collected from glassdoor via 
 I got the code from this Githuber:
 https://github.com/arapfaik/scraping-glassdoor-selenium/blob/master/glassdoor%20scraping.ipynb
 
-
-
 I edit the code following the tutorial by Ken Jee. 
 https://github.com/PlayingNumbers/ds_salary_proj
 
